@@ -1,3 +1,22 @@
-body{
+body {
     background-color: brown;
+}
+
+.imagePhoto {
+    width: 100px;
+    height: 100px;
+}
+
+.meImage {
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.sectionFlex {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
 }
