@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: red;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -39,10 +39,10 @@ body {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color:white;
+    color: white;
 }
 
-footer{
+footer {
     background-color: #212529;
-    color:white;
+    color: white;
 }
