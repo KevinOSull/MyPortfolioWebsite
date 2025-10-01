@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: beige;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -11,8 +11,8 @@ body {
 .meImage {
     width: auto;
     height: auto;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 .sectionFlex {
@@ -45,4 +45,64 @@ body {
 footer {
     background-color: #212529;
     color: white;
+}
+
+.project-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.project-header hr {
+    flex: 1;
+    border: none;
+    border-top: 2px solid #333;
+    margin: 0;
+}
+
+.project-header span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+@media (max-width: 768px) {
+    .project-header {
+        gap: 5px;
+    }
+
+    .project-header span {
+        font-size: 18px;
+    }
+
+    .project-header hr {
+        border-top: 1px solid #333;
+    }
+}
+
+@media (max-width: 480px) {
+    .project-header {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .project-header hr {
+        width: 50%;
+    }
+
+    .project-header span {
+        font-size: 16px;
+    }
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.second-row-wrapper {
+    margin-top: 2rem;
 }
