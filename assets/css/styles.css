@@ -106,3 +106,12 @@ footer {
 .second-row-wrapper {
     margin-top: 2rem;
 }
+
+#work-together p {
+    display: flex;
+    color: red;
+    justify-content: center;
+    align-items: center;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
