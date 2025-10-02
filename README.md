@@ -17,3 +17,19 @@ The live project can be found here "insert link here"
 - I want to make an about me page which clearly states my skills to employers.
 - I want to make a clean and slick looking website.
 - I want to use this opportunity to reinforce the knowledge I have acquired in learning html and css so far.
+
+## Color Choice
+-The website uses a warm beige background for the main content areas, creating a clean and inviting feel. 
+-The navigation bar and footer use a dark color to provide contrast, making important elements like links and icons stand out.
+-The hero section features a background image with overlayed introductory text, immediately introducing me as a Full Stack Developer. 
+-The text is styled for readability, with clear headings and supporting paragraphs, and adjusts responsively on different screen sizes to remain legible. 
+-This design guides the visitor’s attention, reinforces branding, and provides a professional first impression.
+
+## Font Choice
+The website uses a single font, Roboto Slab, for all text. This serif font provides a clean, modern, and professional look while maintaining good readability across headings, paragraphs, and buttons. Using one consistent font helps unify the design and keeps the focus on the content.
+
+## Wire Frames
+Thes wireFrames have been created using Balsamiq to define layout of design and user experience
+
+## Home Page
+![Wireframe 1](../assets/images/DesktopPage1.png)
