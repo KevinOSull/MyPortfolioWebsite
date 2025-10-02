@@ -32,4 +32,4 @@ The website uses a single font, Roboto Slab, for all text. This serif font provi
 Thes wireFrames have been created using Balsamiq to define layout of design and user experience
 
 ## Home Page
-![Wireframe 1](../assets/images/DesktopPage1.png)
+![Wireframe 1](assets/images/DesktopPage1.png)
