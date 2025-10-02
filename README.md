@@ -34,3 +34,4 @@ Thes wireFrames have been created using Balsamiq to define layout of design and 
 ## Home Page
 ![Wireframe 1](assets/images/DesktopPage1.png)
 ![Wireframe 2](assets/images/IpadPage1.png)
+![Wireframe 3](assets/images/PhonePage1.png)
