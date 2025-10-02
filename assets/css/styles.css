@@ -1,6 +1,6 @@
 body {
     background-color: beige;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto Slab', serif;
 }
 
 .imagePhoto {
@@ -9,17 +9,92 @@ body {
 }
 
 .meImage {
-    width: auto;
-    height: auto;
-    max-width: 300px;
-    max-height: 300px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    object-fit: cover;
 }
 
+
+
 .sectionFlex {
+    height: 50vh;
+    background-image: url('../images/code2.jpg');
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: white;
+    padding: 20px;
+}
+
+section .aboutme-header span{
+    color:black;
+}
+
+.aboutme-hero p{
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.aboutme-hero{
+    height:50vh;
+    background-image:url('../images/code3.jpg');
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.aboutme-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     gap: 10px;
-    padding-top: 20px;
+    margin: 20px 0;
+}
+
+.aboutme-header hr {
+    flex: 1;
+    border: none;
+    border-top: 2px solid #333;
+    margin: 0;
+}
+
+.aboutme-header span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.sectionFlex>.introText>p {
+    font-weight: 400;
+}
+
+.sectionFlex>.introText>h2 {
+    font-weight: 700;
+}
+
+@media(max-width:480px) {
+    .sectionFlex {
+        padding-top: 10px;
+      
+    }
+
+   
+}
+
+.introText {
+    max-width: 400px;
 }
 
 #kos {
@@ -97,10 +172,36 @@ footer {
     }
 }
 
+@media(max-width:768px){
+    .aboutme-hero p{
+        font-size:1.2rem;
+    }
+}
+
+@media(max-width:480px){
+    .aboutme-hero p{
+        font-size:1.1rem;
+    }
+}
+
 .card {
     display: flex;
     justify-content: center;
     padding-top: 50px;
+}
+
+.technologies-content{
+    text-align: center;
+
+}
+
+.technologies-content ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;  
+    width: fit-content;     
+    margin: 0 auto;         
+    text-align: left;   
+      
 }
 
 .second-row-wrapper {
