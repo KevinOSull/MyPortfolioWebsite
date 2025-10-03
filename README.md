@@ -55,8 +55,32 @@ Thes wireFrames have been created using Balsamiq to define layout of design and 
 The portfolio uses three main images: two hero images to set the tone on the Home and About Me pages, and a personal profile image on the home page to introduce myself. The imagery is chosen to create a professional and approachable feel, complementing the site’s content and reinforcing the coding and development theme.
 
 ## Navigation
-Navigation
 - Main Navigation Bar: Located at the top of every page for consistent access to Home, Projects, About Me, and Contact pages.
 - Responsive Menu: Collapses into a hamburger menu on smaller screens (tablet and mobile) for usability on all devices.
 - Smooth User Experience: Links clearly labeled and easy to click, ensuring visitors can quickly find the information they need.
+
+## Cards
+- Visual Layout: Each project is displayed in a Bootstrap card with a small image, title, description, and link.
+- Project Images: Gives a quick visual reference to the project, helping visitors identify your work at a glance.
+- Links to Code: Each card includes a clickable button linking to the GitHub repository, making it easy for potential employers to explore your code.
+- Consistent Styling: Cards use uniform dimensions and spacing for a clean, professional look.
+- Responsive Design: Cards stack vertically on smaller screens, maintaining readability and accessibility across devices.
+
+## Improvements
+I would like to imporove a number of things, these include:
+- Improving the responsivness on mobile, some of the cards on mobile are stacked really closely together.
+- Improve the about me page, add Icons to represent the different languages and technologies I know and present that better.
+- Add more content to the contact me page and improve the font style and colourings.
+
+
+## AI Implementation
+I used AI to help me with debugging of issues, especially when content wasn't going where I wanted it to and the AI help me to figure why and how to fix it.
+
+## Impact
+AI helped to debug problems I was having with css and it suggested way in which I could fix these problems and thus speeding up my development time.
+
+## Bug
+No bugs were found.
+
+## Validation
 
