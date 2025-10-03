@@ -50,3 +50,6 @@ Thes wireFrames have been created using Balsamiq to define layout of design and 
 ![Wireframe 10](assets/images/DesktopPage4.png)
 ![Wireframe 11](assets/images/TabletPage4.png)
 ![Wireframe 12](assets/images/PhonePage4.png)
+
+## Images
+The portfolio uses three main images: two hero images to set the tone on the Home and About Me pages, and a personal profile image on the home page to introduce myself. The imagery is chosen to create a professional and approachable feel, complementing the site’s content and reinforcing the coding and development theme.
