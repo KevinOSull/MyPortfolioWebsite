@@ -93,5 +93,8 @@ No bugs were found.
 ![Wireframe 15](assets/images/aboutmevalidationpage.png)
 
 - Contact me Page
-![Wireframe 12](assets/images/contactmepagevalidation.png)
+![Wireframe 16](assets/images/contactmepagevalidation.png)
 
+- LightHouse Validation Mobile and Desktop
+![Wireframe 17](assets/images/desktoplighthouse.png)
+![Wireframe 18](assets/images/lighthouse.png)
