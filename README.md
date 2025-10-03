@@ -56,7 +56,7 @@ The portfolio uses three main images: two hero images to set the tone on the Hom
 
 ## Navigation
 Navigation
--Main Navigation Bar: Located at the top of every page for consistent access to Home, Projects, About Me, and Contact pages.
--Responsive Menu: Collapses into a hamburger menu on smaller screens (tablet and mobile) for usability on all devices.
--Smooth User Experience: Links clearly labeled and easy to click, ensuring visitors can quickly find the information they need.
+- Main Navigation Bar: Located at the top of every page for consistent access to Home, Projects, About Me, and Contact pages.
+- Responsive Menu: Collapses into a hamburger menu on smaller screens (tablet and mobile) for usability on all devices.
+- Smooth User Experience: Links clearly labeled and easy to click, ensuring visitors can quickly find the information they need.
 
