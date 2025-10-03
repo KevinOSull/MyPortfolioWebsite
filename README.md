@@ -104,3 +104,18 @@ No bugs were found.
 
 ## CSS Validation
 ![Wireframe 19](assets/images/cssvalidation.png)
+
+## Testing and QA
+| Page / Section        | Feature                  | Expected Behavior                                | Status |
+|---------------------- |-------------------------- |-------------------------------------------------|--------|
+| Index / Nav Bar       | Home Button              | Takes User to contact-us.html page               | Pass   |
+| Index / Nav Bar       | Projects Button          | Takes User to resource.html page                 | Pass   |
+| Index / Nav Bar       | About me                 | Takes User to about page                         | Pass   |
+| Index / Nav Bar       | Contact me Button        | Takes User to index.html page                    | Pass   |
+| Project Page          | Black Jack Button        | Takes User to Github                             | Pass   |
+| Project Page          | Anagram Checker Button   | Takes User to Github                             | Pass   |
+| Project Page          | Car Rental Program       | Takes User to Github                             | Pass   |
+| Project Page          | Guess The Number         | Takes User to Github                             | Pass   |
+| Project Page          | Rock Paper Scissors      | Takes User to Github                             | Pass   |
+| Project Page          | How long to pay off      | Takes User to Github                             | Pass   |
+| Contact me            | Reset Field              | Allows User to reset/clear form fields           | Pass   |
