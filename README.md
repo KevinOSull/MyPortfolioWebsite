@@ -83,4 +83,15 @@ AI helped to debug problems I was having with css and it suggested way in which 
 No bugs were found.
 
 ## Validation
+- Index Page
+![Wireframe 13](assets/images/indexpageValidation.png)
+
+- Projects Page
+![Wireframe 14](assets/images/projectspagevalidation.png)
+
+- About me Page
+![Wireframe 15](assets/images/aboutmevalidationpage.png)
+
+- Contact me Page
+![Wireframe 12](assets/images/contactmepagevalidation.png)
 
