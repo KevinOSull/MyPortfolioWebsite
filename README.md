@@ -101,3 +101,6 @@ No bugs were found.
 
 - Mobile
 ![Wireframe 18](assets/images/lighthouse.png)
+
+## CSS Validation
+![Wireframe 19](assets/images/cssvalidation.png)
