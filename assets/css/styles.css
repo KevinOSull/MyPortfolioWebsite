@@ -216,3 +216,21 @@ footer {
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
         "Lucida Sans", Arial, sans-serif;
 }
+
+.languages-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 per row */
+    gap: 30px;
+    max-width: 600px;
+    margin: 40px auto; /* center grid */
+    justify-items: center;
+}
+
+.languages-grid img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+
+
